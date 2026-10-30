@@ -26,7 +26,7 @@ Der Community-Treffpunkt für Analysten, Reportdesigner und Verantwortliche von 
 
 Die Veranstaltungen des SAS Visual Analytics Netzwerks bieten Ihnen von Erfahrungen anderer Kunden zu lernen, mit Experten und Entscheidungsträgern von SAS zu diskutieren sowie Informationen zu Innovationen rund um die SAS LÖsung Visual Analytcs aus erster Hand zu erhalten.
 
-Um immer auf dem laufenden zu bleiben tretten Sie bitte der ... bei.
+Um immer auf dem laufenden zu bleiben tretten Sie bitte der [SAS Visual Analytics Community](https://communities.sas.com/t5/Visual-Analytics-Netzwerk/gh-p/visual-analytics-de) bei.
 
 ### [SAS Club Austria](./SAS%20Club%20Austria)
 
